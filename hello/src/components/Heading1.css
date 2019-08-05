@@ -1,0 +1,15 @@
+.Heading1 {
+  width: 400px;
+}
+
+.Heading1-h1 {
+  color: white;
+  font-size: 7.5em;
+}
+
+.Heading1-h2 {
+  color: white;
+  font-size: 3em;
+  font-weight: lighter;
+}
+

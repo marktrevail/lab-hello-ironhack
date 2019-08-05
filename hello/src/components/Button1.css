@@ -1,0 +1,13 @@
+.Button1 {
+  margin: 50px 0;
+  width: 150px;
+  height: 50px;
+  color: #051538;
+  background-color: white;
+  border-radius: 10px;
+  font-size: 2em;
+  line-height: 2em;
+  font-weight: bold;
+  text-align: center;
+  padding: 0;
+}
