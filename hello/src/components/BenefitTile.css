@@ -1,0 +1,14 @@
+.BenefitTile {
+  width: 190px;
+  margin: 20px;
+  text-align: left;
+}
+
+.BenefitTile h2 {
+  font-size: 3em;
+}
+
+.BenefitTile aside {
+  font-size: 2em;
+  color: grey;
+}

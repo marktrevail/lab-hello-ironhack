@@ -1,0 +1,10 @@
+.BenefitTiles {
+  padding: 80px 50px;
+  background-color: white;
+  height: 500px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
